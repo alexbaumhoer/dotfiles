@@ -1,0 +1,9 @@
+[user]
+  name = Alex Baumhoer
+  email = alexbaumhoer@gmail.com
+
+[github]
+  user = alexbaumhoer
+
+[alias]
+  co = checkout
