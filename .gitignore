@@ -1,0 +1,2 @@
+# Use ~/.bash_source/export for things that shouldn't be in version control
+.bash_source/export
