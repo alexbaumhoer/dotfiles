@@ -6,4 +6,7 @@
   user = alexbaumhoer
 
 [alias]
+  br = branch
   co = checkout
+  pushf = push --force-with-lease
+  st = status
