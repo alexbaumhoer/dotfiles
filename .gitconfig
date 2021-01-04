@@ -11,3 +11,6 @@
   pushf = push --force-with-lease
   st = status
   fpa = fetch --prune --all
+
+[pull]
+  ff = only
