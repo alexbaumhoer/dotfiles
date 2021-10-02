@@ -1,2 +1,2 @@
-export PATH="$HOME/.rbenv/shims:$PATH" # rbenv
+export PATH="/Users/Alex/.rbenv/shims:${PATH}" # rbenv
 export PATH="$HOME/bin:$PATH" # subl
